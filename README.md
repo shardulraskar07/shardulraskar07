@@ -1,167 +1,39 @@
-<h1 align="center">Hi 👋, I'm Shardul Rajendra Raskar</h1>
-<h3 align="center">Computer Engineering Student | C++ • DSA • Python • Machine Learning • Data Science</h3>
+# Hi there, I'm SHARDUL RAJENDRA RASKAR 👋
 
-<p align="center">
-Passionate about Software Development, Data Science, Machine Learning, Cloud Computing, and Problem Solving.
-</p>
+**Passionate about Data Science, Machine Learning & Backend Development**
 
----
+I am a motivated Computer Engineering student with a strong foundation in C++, DSA, Full Stack Development and a growing interest in Data Science and Machine Learning[cite: 1]. I have hands-on experience working with NumPy, Pandas, Matplotlib, MySQL, Scikit-learn, and Flask to develop data-driven and machine learning-based applications[cite: 1]. Currently, I am enhancing my understanding of machine learning algorithms, problem-solving techniques, and backend development, and I am eager to apply my skills to real-world projects while continuously growing as a software and data-oriented engineer[cite: 1].
 
-## 🚀 About Me
+### 🎓 Education
+*   **Dr. D. Y. Patil Institute of Technology** (2023 - 2027): B.E. - Computer Engineering[cite: 1]
+*   **Crative accademy baramati, Baramati** (2023): 12th MSBSHSE[cite: 1]
+*   **New english school english andori, Lonand** (2021): 10th MSBSHSE[cite: 1]
 
-🎓 B.E. Computer Engineering Student at Dr. D. Y. Patil Institute of Technology, Pune
+### 🛠️ Key Expertise
+*   **Languages & Core Skills:** C++, Python, DSA, Data Science, Front-End Web Development, Cloud Computing, Machine Learning[cite: 1]
+*   **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Scikit-learn, Flask, HTML, CSS, JS, NODE.JS, REACT[cite: 1]
+*   **Databases:** MySQL[cite: 1]
+*   **Cloud & Deployment:** Oracle Cloud Infrastructure, DevOps Java, Microservices, Cloud Security, Deployment, Database Management, API Development[cite: 1]
 
-💻 Interested in:
-- Software Development
-- Machine Learning
-- Data Science
-- Cloud Computing
-- Backend Development
-- Problem Solving
+### 🚀 Projects
+*   **Student Performance Prediction System**[cite: 1]
+    *   Developed a machine learning-based web application to predict student performance using historical academic data[cite: 1].
+    *   Used Python libraries like NumPy, Pandas, and Scikit-learn for data preprocessing, analysis, and model training[cite: 1].
+    *   Integrated the model with a Flask backend and visualized insights using Matplotlib[cite: 1].
 
-🌱 Currently Learning:
-- Advanced DSA
-- Machine Learning
-- Flask
-- Scikit-Learn
-- Cloud Technologies
+### 🏆 Certifications & Achievements
+*   Oracle Cloud Infrastructure 2025 Certified Developer Professional (Oracle University)[cite: 1]
+*   Oracle Cloud Infrastructure 2025 Certified Data Science Professional (Oracle University)[cite: 1]
+*   NPTEL Elite Certification in Python for Data Science[cite: 1]
+*   Successfully Completed Frontend Development Internship at CodeAlpha[cite: 1]
 
-📈 Looking for:
-- Internship Opportunities
-- Software Engineering Roles
-- Data Science Opportunities
+### 👨‍💻 Connect with me
+*   **LinkedIn:** [linkedin.com/in/shardulraskar07](https://www.linkedin.com/in/shardulraskar07)
+*   **LeetCode:** [leetcode.com/u/ShardulRaskar/](https://leetcode.com/u/ShardulRaskar/)
+*   **HackerRank:** [hackerrank.com/profile/shardulraskar931](https://www.hackerrank.com/profile/shardulraskar931)
+*   **Codeforces:** [codeforces.com/profile/shardulraskar07](https://codeforces.com/profile/shardulraskar07)
+*   **Email:** [shardulraskar9380@gmail.com](mailto:shardulraskar9380@gmail.com)[cite: 1]
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-
-### Data Science & ML
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### Cloud
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle)
-
----
-
-## 📂 Featured Project
-
-### 🎯 Student Performance Prediction System
-
-Machine Learning based web application developed using:
-
-- Python
-- Flask
-- Pandas
-- NumPy
-- Scikit-Learn
-- Matplotlib
-
-Features:
-
-✔ Student Performance Prediction
-
-✔ Data Analysis
-
-✔ Visualization
-
-✔ ML Model Integration
-
-✔ Flask Backend
-
----
-
-## 🏆 Certifications
-
-✅ Oracle Cloud Infrastructure Developer Professional
-
-✅ Oracle Cloud Infrastructure Data Science Professional
-
-✅ NPTEL Elite Certification in Python for Data Science
-
-✅ Frontend Development Internship – CodeAlpha
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/shardulraskar07" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/ShardulRaskar/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/shardulraskar07" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/shardulraskar931" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🎯 Coding Profiles
-
-🔹 LeetCode  
-https://leetcode.com/u/ShardulRaskar/
-
-🔹 Codeforces  
-https://codeforces.com/profile/shardulraskar07
-
-🔹 HackerRank  
-https://www.hackerrank.com/profile/shardulraskar931
-
-🔹 LinkedIn  
-https://www.linkedin.com/in/shardulraskar07
-
----
-
-### ✨ Quote
-
-> "Continuous learning, disciplined effort, and problem-solving are the foundations of growth."
-
----
-
-⭐ Always open to collaborating on Software Development, Machine Learning, and Data Science projects.
+### ⚡ Fun Facts & Hobbies
+*   Following a disciplined lifestyle inspired by ISKCON philosophy and Bhagavad Gita teachings[cite: 1].
+*   Following a spiritually disciplined lifestyle focused on self-development and mindfulness[cite: 1].
